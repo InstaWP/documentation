@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinstawp_docs=self.webpackChunkinstawp_docs||[]).push([[6587],{9563:function(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/documentation/blog/tags/facebook","allTagsPath":"/documentation/blog/tags","count":1}')}}]);
