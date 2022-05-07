@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkinstawp_docs=self.webpackChunkinstawp_docs||[]).push([[2640],{57:function(a){a.exports=JSON.parse('{"label":"hello","permalink":"/documentation/blog/tags/hello","allTagsPath":"/documentation/blog/tags","count":2}')}}]);
