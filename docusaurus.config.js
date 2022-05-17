@@ -1,4 +1,4 @@
-// @ts-check
+/// @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -18,7 +18,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'instawp', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
-
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -26,6 +27,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -57,9 +67,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'InstaWP Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'InstaWP Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -67,12 +77,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Getting Started', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://instwp.com',
+            label: 'InstaWP',
             position: 'right',
           },
         ],
