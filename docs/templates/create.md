@@ -2,7 +2,7 @@
 sidebar_label: 'Create a Template'
 ---
 
-# Reserve Site
+# Create a Template
 
 By default, any sites created on InstaWP has an "expiry date", because the platform is meant to be used as a "sandbox" enviroment. 
 

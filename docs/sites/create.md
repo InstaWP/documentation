@@ -3,9 +3,9 @@ sidebar_position: 1
 sidebar_label: 'Create Site'
 ---
 
-# Create a new Site
+# Create Site
 
-It's possible to create a site using InstaWP with and without registration. 
+Sites are the basic building block of InstaWP. To create a new site (or website)
 
 ## Without creating an account
 
