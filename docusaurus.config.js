@@ -79,7 +79,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/getting-started', label: 'Getting Started', position: 'left'},
+          {type: 'doc', docId: 'getting-started', label: 'Getting Started', position: 'left'},
           {
             href: 'https://instwp.com',
             label: 'InstaWP',
