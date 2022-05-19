@@ -79,7 +79,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Getting Started', position: 'left'},
+          {to: '/getting-started', label: 'Getting Started', position: 'left'},
           {
             href: 'https://instwp.com',
             label: 'InstaWP',
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} InstaWP, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
