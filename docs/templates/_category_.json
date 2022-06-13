@@ -1,8 +1,8 @@
 {
   "label": "Templates",
-  "position": 2,
+  "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Templates have you to save your sites's files & database as a snapshot, to be re-used at later point in time. But that's just a basic defination of templates, you can do much more with Templates, read on!"
   }
 }

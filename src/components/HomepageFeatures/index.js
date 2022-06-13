@@ -5,31 +5,28 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/Skateboarding.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        InstaWP was designed to launch WordPress instances in less than a second without installing any softwares.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Built on Open Source',
+    Svg: require('@site/static/img/Open source.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        InstaWP is powered by Open Source technologies such as PHP, WordPress, Laravel and VueJS.
       </>
     ),
   },
   {
-    title: 'Powered by WordPress',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Ideal for Builders and Devs',
+    Svg: require('@site/static/img/Video game developer.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Ideal for delivering a site to the client, testing a new idea, or setting up a full blown CI/CI pipeline.
       </>
     ),
   },

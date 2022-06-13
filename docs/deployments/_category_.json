@@ -3,6 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Connect your plugin, theme or any other WordPress related Git repositories to InstaWP for feature testing and automated CI/CD"
   }
 }

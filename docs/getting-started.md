@@ -14,12 +14,12 @@ Navigate to [https://app.instawp.io/onboard](https://app.instawp.io/onboard) to 
 
 Choose a WordPress version, PHP version, preset Configurations and provide a name of your WordPress site. 
 
-[[screenshot-onboarding launcher]]
+![getting started instawp](https://ik.imagekit.io/instawp/instawp-docs-onboarding_3IiC42Jck.png)
 
 
 Click on "Launch Your Website" to get an instant WordPress website based on the parameters you have chosen. 
 
-[[screenshot-launched site]]
+![launched site](https://ik.imagekit.io/instawp/instawp-docs-launched_site_OG2yuWsQ-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654685578295)
 
 :::info Site Limits
 
@@ -29,7 +29,7 @@ As a guest user, InstaWP allows you to create upto 3 sites at a time, every site
 
 :::tip Faster Launch
 
-Keep everything as default for an instant launch of new WordPress site!
+Keep all parameters as default for an instant launch of new WordPress site!
 
 :::
 
@@ -50,11 +50,16 @@ Although you can get started following the steps above, creating a free account 
 
 To create a FREE account, enter your email id after you have created a site as a guest (this will copy over the site to your newly created site).
 
-[[screenshot-launched site-email id]]. 
+![launch site email id](https://ik.imagekit.io/instawp/instawp-docs-email_in_site_creatiobn_0P_reFvNm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654685725791)
 
 Or, you can go directly to user registration and create an account. 
 
-In both cases, you will be asked for email verification, please open your email account and verify the email address by clicking on the link below.
+In both cases, you will be asked for email verification, please open your email account and verify the email address.
 
-[[screenshot-email verification]]
+
+## Dashboard
+
+Once your account is verified you will see a Dashboard. You will also be able to see the site created during onboarding process. 
+
+![dashboard instawp](https://ik.imagekit.io/instawp/instawp-docs-dashboard_r6qbLyaEr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654685578413)
 

@@ -46,8 +46,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -94,25 +94,37 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting Started',
                 to: '/docs/getting-started',
-              },
+              },{
+
+                label: 'Sites Started',
+                to: '/docs/category/sites',
+              },{
+
+                label: 'Templates',
+                to: '/docs/category/templates',
+              },{
+
+                label: 'Deployments',
+                to: '/docs/category/deployments',
+              }
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'InstaWP Home',
+                href: 'https://instawp.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'InstaWP App',
+                href: 'https://app.instawp.io',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Chrome Extension',
+                href: 'https://chrome.google.com/webstore/detail/instawp-launcher/nhiaohalgdfojppcongpiiemfeckmgao',
               },
             ],
           },
@@ -120,12 +132,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Videos',
+                to: 'https://www.youtube.com/channel/UC9INSyVW2yysvwkAq-GJK6g',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Support',
+                href: 'https://help.expresstech.io/help/785594868',
               },
             ],
           },
