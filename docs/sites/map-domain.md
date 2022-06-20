@@ -8,15 +8,19 @@ By default a site created on InstaWP has a `*.instawp.xyz` subdomain. In paid pl
 
 To map a domain, open the Map Domain option from the site dropdown. 
 
-[[screenshot-map-domain-menu]]
+![map-domain-menu](https://ik.imagekit.io/instawp/instawp-docs-map-domain-link_2x_ZH8Ld82ck.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655518780969)
 
 **Entering Domain**
 
-Before you use this feature, you should already have access to DNS settings of a domain you own or manage. In this example, we are going to point `yourawesomeclient.com` to an InstaWP site. 
+Before using this feature, you should already have access to DNS settings of a domain you own or manage. In this example, we are going to point `yourawesomeclient.com` to an InstaWP site. 
 
 Enter the domain into the modal box as shown:
 
-[[screenshot-enter-domain]]
+![enter-domain](https://ik.imagekit.io/instawp/instawp-docs-map-domain_2x_eK5YPrKX3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655518780936)
+
+1. Enter the domain name into the box
+2. Copy the IP Address
+
 
 **Map www as well**
 
@@ -30,7 +34,7 @@ Tick this box if you want to auto redirect the www version to the main domain.
 
 Copy the IP address and create an `A` record in your domain provider's control panel. In this example, we are using namecheap. 
 
-[[screenshot-namecheap]]
+![namecheap](https://ik.imagekit.io/instawp/instawp-docs-namecheap_2x_1FsYGmbSx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655518781070)
 
 :::info Background processing
 

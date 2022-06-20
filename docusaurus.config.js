@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'InstaWP Docs',
-  tagline: '1-Click WP Instancs',
+  tagline: 'WordPress Instances in less than a second!',
   url: 'https://docs.instawp.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -73,15 +73,16 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'getting-started',
-            position: 'left',
-            label: 'Docs',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'getting-started',
+          //   position: 'left',
+          //   label: 'Docs',
+          // },
           {type: 'doc', docId: 'getting-started', label: 'Getting Started', position: 'left'},
+          {href: 'https://www.facebook.com/groups/instawp', label: 'Community', position: 'right'},
           {
-            href: 'https://instwp.com',
+            href: 'https://instawp.com',
             label: 'InstaWP',
             position: 'right',
           },

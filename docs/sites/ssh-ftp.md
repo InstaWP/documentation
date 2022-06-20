@@ -15,7 +15,13 @@ Accessing FTP & SSH is a pro feature.
 
 ## Adding a key
 
-If you don't have a ssh key or what to learn more about it, check [this guide](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html) from Oracle. Copy your ssh key from `~/.ssh/id_rsa.pub` file. 
+Copy your ssh key from `~/.ssh/id_rsa.pub` file from your local machine. 
+
+:::tip SSH Key 
+
+If you don't have a ssh key, you can generate one. To learn more about it, check [this guide](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html) from Oracle. 
+
+:::
 
 ![ssh key copy](https://ik.imagekit.io/instawp/instawp-docs-copy-ssh_2x_KbqjDIW9C.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654773820666)
 

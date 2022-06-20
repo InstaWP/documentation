@@ -23,7 +23,7 @@ Click on "Launch Your Website" to get an instant WordPress website based on the 
 
 :::info Site Limits
 
-As a guest user, InstaWP allows you to create upto 3 sites at a time, every site will expir after *8 hours* of usage.
+As a guest user, InstaWP allows you to create upto 3 sites at a time, every site will expire after *8 hours* of usage.
 
 :::
 
